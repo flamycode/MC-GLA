@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "FreakyPunk #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "38b6af38e2fccb4fc9d375c8b80be04026bf6564",
+    "edition": 1,
+    "date": 1640563504935,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "d50ef3e702cb82182016dc49f889edb99144aed4",
+    "edition": 2,
+    "date": 1640563504971,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "6e577bfb916e6abbab8317fadcfe1446bbfcaf42",
+    "edition": 3,
+    "date": 1640563505006,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "0826dc719a9ffbdea8366547fd9e073aa3ac4058",
+    "edition": 4,
+    "date": 1640563505039,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "2650c935aa836f6f45b396fa72d2a4b691569738",
+    "edition": 5,
+    "date": 1640563505074,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "d489d387b91d5707fc9bde8314080d811719aa41",
+    "edition": 6,
+    "date": 1640563505109,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "542445c7eea2e1e16ee251ad766454a963c4f3a2",
+    "edition": 7,
+    "date": 1640563505143,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "6680075e86ca566c2a63877219d8d7a2e793a2f8",
+    "edition": 8,
+    "date": 1640563505178,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "fee0f8ef4daa0a2170520f349e0d57af2887287d",
+    "edition": 9,
+    "date": 1640563505214,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "aee467c7f0e93a1a4af15c981055dd2376fb34ae",
+    "edition": 10,
+    "date": 1640563505249,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "52b0006ead36a3c80d0cf4fb3a28efc2fedebf0f",
+    "edition": 11,
+    "date": 1640563505284,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "cd8b4aa850cbed96ecae949d605c95a639d65f3b",
+    "edition": 12,
+    "date": 1640563505319,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "4cb2ccf0cb7d30bd53e925443e70e0acd8206127",
+    "edition": 13,
+    "date": 1640563505354,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "c5b857e7b6e50b8ac6dff79c9b0b065d4f59d0b2",
+    "edition": 14,
+    "date": 1640563505390,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "ba9637072b3bfc4167edc867679fc140618ddd19",
+    "edition": 15,
+    "date": 1640563505428,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "90d010cfae05b073e962ae9920df73555555d43a",
+    "edition": 16,
+    "date": 1640563505462,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "3fbdba140a8af3da59fb7e65c5a0114b09b4e374",
+    "edition": 17,
+    "date": 1640563505497,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "6830c56b269381c4be1517a7783657b1d01dace1",
+    "edition": 18,
+    "date": 1640563505544,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "77794f5007a760d21ed2b93a96504aa8020d645f",
+    "edition": 19,
+    "date": 1640563505578,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "f5f94733dbb262872c8bc28d3cddbc992db911b4",
+    "edition": 20,
+    "date": 1640563505612,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "e1df7d2eb7f7f0098f2ccf27bd3bf30c85643d56",
+    "edition": 21,
+    "date": 1640563505646,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "a8bfe57909a007e8812819843151883334a6f78c",
+    "edition": 22,
+    "date": 1640563505680,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "124f5f453fdaa01f2db6ee2cc849d2d991145030",
+    "edition": 23,
+    "date": 1640563505714,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "89f15441b9488764a15f269f223d3aaee5b725c3",
+    "edition": 24,
+    "date": 1640563505748,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "f83496d1b902ee9747a6183cfc67ff5721932590",
+    "edition": 25,
+    "date": 1640563505782,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "509ad55dd0420009fcdf019d908a4b6ed6aaff61",
+    "edition": 26,
+    "date": 1640563505816,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "0fc58466e230bb57e30fe4dc14ef688124c9b8c5",
+    "edition": 27,
+    "date": 1640563505851,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "3a624693c2bcdc6a3e153a10d1d957ecb4146d8e",
+    "edition": 28,
+    "date": 1640563505886,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "e36d0cf81794a4aa55e6b2167f16b8289a1f92cf",
+    "edition": 29,
+    "date": 1640563505920,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "a251878fad1dbb5b8ee20832550a23c850316227",
+    "edition": 30,
+    "date": 1640563505955,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "2776592e10934c68726b5f8ae28854c1ce6d271e",
+    "edition": 31,
+    "date": 1640563505998,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "8c10d8f836760b7f39f95f96f9baceb7918e4846",
+    "edition": 32,
+    "date": 1640563506034,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "cc5fdd014fbdc516de9db6651b21967003bd59ec",
+    "edition": 33,
+    "date": 1640563506068,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "144cdcf43cf14b3c03051bb4004dd5224d90352d",
+    "edition": 34,
+    "date": 1640563506101,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "fc89c49e1cd9672f15ffdb0b814b56a87dd908c2",
+    "edition": 35,
+    "date": 1640563506135,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "2599185f2f565718b87f35fa35733cfaa88658c7",
+    "edition": 36,
+    "date": 1640563506168,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "e3ddb0b68e7e7adba79c9ebb74eb34094540a526",
+    "edition": 37,
+    "date": 1640563506202,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "8fa18b0794ceed3ca57d7c30c6294f2c434d7f88",
+    "edition": 38,
+    "date": 1640563506235,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "6bd948535348511afdb9340fcc09e5175314b662",
+    "edition": 39,
+    "date": 1640563506269,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "94c2b3e3dd3cfcdf0e398ee315fbf1da4ac8e0fc",
+    "edition": 40,
+    "date": 1640563506304,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Grinch Lucky Ape"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
